@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2cbfbeb14dffe028e009081d",
+  "owner": "mp4svvry5",
+  "repo": "page-52a202ed7b95468781006e48",
+  "title": "兰溪谷",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52a202ed7b95468781006e48",
+      "a": "兰溪谷",
+      "b": "",
+      "entity": "兰溪谷",
+      "brand": "兰溪谷",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5bdbf23489c520f96885ceac79aff2c5edb197b6d0503a65612565614d76ec70",
+      "content": {
+        "keyword1": "兰溪谷",
+        "keyword2": "",
+        "primary_entity": "兰溪谷",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "兰溪谷提供清晰透明的机场订阅方案与多平台 VPN 客户端下载，覆盖基础到团队需求，支持流媒体解锁与游戏加速，并附完整配置流程与常见问题解答。",
+          "AI_DESCRIPTION": "兰溪谷提供清晰透明的机场订阅方案与多平台 VPN 客户端下载，覆盖基础到团队需求，支持流媒体解锁与游戏加速，并附完整配置流程与常见问题解答。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#fdf8f4;color:#222;font-size:17px;line-height:1.7}a{color:#c45a3a;text-decoration:none}header{background:#fff;border-bottom:3px solid #e07050;padding:12px 16px}.brandbar{text-align:center;font-weight:700;font-size:1.25rem;color:#7a3328;margin-bottom:8px}.nav{display:flex;flex-wrap:wrap;gap:10px 14px;justify-content:center}.wrap{max-width:1080px;margin:0 auto;padding:8px 16px 24px}h1{font-size:1.75rem;color:#7a3328;margin:16px 0 10px;line-height:1.35}h2{font-size:1.35rem;color:#a04a38;margin:26px 0 10px;border-left:4px solid #e07050;padding-left:10px}h3{font-size:1.12rem;color:#4a3028;margin:16px 0 6px}.lead{color:#3a3a3a}.cols{display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start}.content{flex:2 1 500px;min-width:0}.sidebar{flex:1 1 270px;min-width:0}.card{background:#fff;border:1px solid #f0e0d6;border-radius:8px;padding:16px;margin-bottom:14px}.featured{border:2px solid #e07050;background:#fff7f3}.badge{display:inline-block;background:#e07050;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:6px}.price{font-size:1.45rem;font-weight:700;color:#c45a3a;margin:4px 0}.annual{font-size:.9rem;color:#666;margin:0 0 8px}ul{margin:8px 0;padding-left:1.2em}.cta{display:inline-block;background:#e07050;color:#fff;padding:8px 14px;border-radius:6px;margin:6px 8px 0 0}.faq details{background:#fff;border:1px solid #ead9d0;border-radius:6px;padding:10px 14px;margin:10px 0}summary{font-weight:600;color:#8b3a2a}footer{background:#3d2a24;color:#f5e6df;padding:24px 0;margin-top:32px;font-size:.95rem}footer a{color:#ffb199}.ad{background:#fff3ee;border:1px dashed #e07050;padding:12px;margin:12px 0;color:#333}footer .ad{background:#4a332c;border-color:#e07050;color:#f5e6df}p,li{overflow-wrap:anywhere}@media (max-width:640px){h1{font-size:1.45rem}body{font-size:16px}.nav{font-size:15px}}</style><header><div class=\"wrap\"><div class=\"brandbar\">兰溪谷</div><nav class=\"nav\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main class=\"wrap\"><div class=\"cols\"><div class=\"content\"><h1>兰溪谷：机场 VPN 网络加速与官方客户端下载</h1><p class=\"lead\">兰溪谷是面向个人与团队的网络加速服务品牌，提供可订阅的机场节点、多平台客户端以及清晰的配置流程。我们聚焦线路稳定性、流媒体可用性与游戏延迟优化，帮助用户在官网完成从选购到连接的全流程。</p><section id=\"intro\"><h2>品牌简介</h2><p>兰溪谷定位为务实的机场与 VPN 加速平台。服务包括按流量计费的订阅套餐、覆盖主流地区的节点池，以及针对 Clash、Shadowrocket、v2rayN 等客户端的导入说明。套餐页标明流量额度、同时在线设备数与线路类型，便于对照使用习惯选择基础版、旗舰版或团队版。</p><p>官方网站承担信息发布、套餐说明与客户端指引职能。用户可阅读配置步骤、查看常见问题，并通过页面锚点定位下载与订阅章节。兰溪谷不捆绑来路不明的安装包，建议仅通过官网指引获取客户端，以降低配置失败与安全风险。</p><p>节点侧常见出口包括香港、东京、新加坡、洛杉矶等地，旗舰线路强调 IPLC 专线与原生解锁能力。实际体验随网络环境变化，连接前应用客户端自带延迟检测进行选择，而不是只看地区名称。</p></section><section id=\"scenarios\"><h2>使用场景</h2><h3>影音与流媒体</h3><p>旗舰版面向需要稳定观看海外剧集、直播与高清内容的用户，强调全节点原生流媒体解锁。基础版覆盖轻度点播。版权平台风控会调整，解锁结果应以当前节点实测为准，遇到失败先换组再反馈。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，对登录、对局与资源更新更友好。团队版提供更高带宽节点，适合多开。请优先选择延迟低、丢包少的线路，并在游戏启动前完成代理模式切换。</p><h3>办公、学术与差旅</h3><p>多设备额度覆盖手机、电脑与平板。差旅时切换节点即可访问协作工具与资料库。团队版支持企业定制路由，可把办公网段与娱乐流量分开，减少互相抢占。</p><h3>家庭与轻度共享</h3><p>基础版 3 台、旗舰版 5 台、团队版 20 台，适合共享一个订阅。请合理分配流量，4K 与大文件同步消耗明显，接近额度时应降低清晰度或考虑升级。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>兰溪谷推荐固定顺序：先确认套餐并复制订阅，再安装客户端，最后导入并选节点。颠倒顺序是连不上的常见原因。</p><h3>第一步：确认套餐并复制订阅地址</h3><p>对照流量、设备数与线路类型下单。完成后在会员中心复制通用订阅链接。链接请妥善保存，不要公开张贴，以免额度被盗用。若面板提供 Clash、Surge 或 SIP008 多种格式，按你使用的客户端选择对应项。</p><h3>第二步：按系统下载客户端</h3><p>Windows 常用 Clash 系或 v2rayN；macOS 可用 Clash Meta 或 Surge；iOS 常见 Shadowrocket、Stash、Quantumult X；Android 推荐 Clash Meta。请到各软件正式发布渠道获取。本站提供指引与官方下载说明入口，不托管安装文件。</p><h3>第三步：导入订阅并更新节点</h3><p>在客户端打开订阅或配置 URL 功能，粘贴兰溪谷链接并更新。成功后应出现分组列表。失败时检查链接完整性、系统时间、DNS 与防火墙。企业网络若拦截订阅域名，可先更换网络完成更新。</p><h3>第四步：选择节点并开启代理</h3><p>浏览走综合优化组，影视走解锁组，游戏走 IPLC 或低延迟组。开启 Tun 或系统代理后，用 IP 检测页确认出口。单站异常时切换节点或在规则模式与全局模式之间调整。</p><h3>第五步：日常维护</h3><p>关注剩余流量并及时续费。客户端保持更新。规则失效时查看官网是否提供新的分流说明。团队用户可将复杂路由交给专属客户经理协助。</p></section><section id=\"download\"><h2>客户端下载与官网入口</h2><p>兰溪谷提供机场订阅，客户端为独立软件。请先确认套餐需求，再按系统选择工具。所谓官网下载，指在兰溪谷官方网站获取订阅与配置说明，而不是来路不明的打包安装器。</p><p><a class=\"cta\" href=\"#plans\">查看套餐并准备订阅</a><a class=\"cta\" href=\"#guide\">返回配置步骤</a></p><p>任何额外收费解锁客户端、或索要验证码以外敏感信息的渠道，都应提高警惕。安装被系统拦截时，核对数字签名与发布页地址，而不是关闭全部防护。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>兰溪谷机场和普通 VPN 有什么不同？</summary><p>兰溪谷以订阅制机场提供多节点与可切换线路，并针对规则客户端优化分流。传统单一 VPN 多是固定出口。需要按场景换线路、自定义规则时，机场更灵活；若只需一键连接，也可在客户端里固定一条优质节点当作 VPN 使用。</p></details><details><summary>如何下载并安装客户端？</summary><p>按操作系统选择兼容软件：桌面端用 Clash 或 v2rayN，移动端用 Shadowrocket 或 Clash Meta。安装后先导入订阅再连接。按钮名称因版本而异，订阅、配置 URL、Profiles 一类入口是共通的。请使用正式发布页，避免第三方修改版。</p></details><details><summary>订阅链接导入失败怎么办？</summary><p>确认链接完整、无多余空格，设备时间正确。可更换网络后重试。仍失败则到会员中心重新生成或改用另一种订阅格式。部分网络会阻断订阅域名，更换 DNS 或先用手机流量更新通常能解决。</p></details><details><summary>基础版、旗舰版和团队版如何选择？</summary><p>轻度浏览选基础版（每月 100GB、3 台设备）。需要更好解锁、游戏加速和优先工单选旗舰版（每月 300GB、5 台设备，含 IPLC）。多人共用或需要定制路由选团队版（每月 1000GB、20 台设备）。年付价格已在各套餐标明，适合长期使用。</p></details><details><summary>支持多少设备同时在线？流量怎么计算？</summary><p>以套餐写明的台数为准，超出可能限制新连接。流量按走代理的实际传输累计。高清视频与云盘同步消耗很快，建议打开客户端流量统计，接近额度时减少大流量应用或升级套餐。</p></details><details><summary>能否保证所有流媒体解锁和固定延迟？</summary><p>旗舰版强调全节点原生解锁，但仍受平台风控影响，不能理解为永久全部成功。游戏加速用于优化路由，不承诺具体毫秒。使用前做延迟测试，失效时先换节点，再查看官网公告。</p></details><details><summary>官方如何提供帮助？</summary><p>先阅读本页配置流程与问答。旗舰版提供 7x24 优先工单，团队版另有专属客户经理。联系时说明系统、客户端版本和报错原文，不要直接发送完整订阅链接。</p></details></section></div><aside class=\"sidebar\"><section id=\"plans\"><h2>套餐方案</h2><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置</a></p></div><div class=\"card featured\"><span class=\"badge\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置</a></p></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置</a></p></div></section><div class=\"ad\"><strong>配置提示</strong><br>先锁定套餐与订阅链接，再安装客户端。游戏与会议请优先尝试旗舰版 IPLC 分组，规则模式通常比全局更省流量。</div><div class=\"card\"><h3>官方身份说明</h3><p>本页为兰溪谷官方网站信息与下载指引。价格、流量与设备额度以套餐区展示为准。这里不放置评分或用户评语。节点列表以订阅更新结果为准，请以客户端内实时数据作为选择依据。</p></div></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><div class=\"wrap\"><p><strong>兰溪谷</strong> · 机场订阅与 VPN 加速服务官网</p><div class=\"ad\">展示位：把 4K 播放与大文件同步安排在流量充裕时段，并把办公域名放入直连或独立策略，同样额度下体验更稳。</div><p>友情链接：<a href=\"#\">网络工程笔记</a> <a href=\"#\">开源客户端文档</a> <a href=\"#\">DNS 优化入门</a> <a href=\"#\">流媒体编码基础</a> <a href=\"#\">远程协作安全提示</a></p><p><a href=\"#\">网站地图</a> · <a href=\"#intro\">回到简介</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#download\">客户端下载</a></p><p>© 兰溪谷 官方网站。使用网络加速服务时请遵守所在地区法律法规以及目标平台条款。</p></div></footer>",
+          "hash": "fb78f7219502306a5f0fa13efe012942650babc052c66aeb6b52cf890936b3ab",
+          "seo": {
+            "title": "兰溪谷官网 | VPN 网络加速、机场订阅与客户端下载",
+            "keywords": "兰溪谷,兰溪谷机场,兰溪谷VPN,机场订阅,客户端下载,网络加速,梯子加速器,官网下载,流媒体解锁,IPLC专线",
+            "description": "兰溪谷提供清晰透明的机场订阅方案与多平台 VPN 客户端下载，覆盖基础到团队需求，支持流媒体解锁与游戏加速，并附完整配置流程与常见问题解答。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ytixyf.cn",
+    "host": "p-ab1b900cd8.ytixyf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "warel.cn",
+      "url": "https://warel.cn/",
+      "label": "兰溪谷",
+      "apex": "warel.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-ac41cf33e04a8ed958db66d8"
+    },
+    {
+      "host": "wlcfs.cn",
+      "url": "https://wlcfs.cn/",
+      "label": "兰溪谷",
+      "apex": "wlcfs.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-8355c5a9aca57d52f2b925b5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "410b35998a527241c17c8e144eed959b5a6f95ea83c99c43673b999f5bc6741b",
+    "sitemap.xml": "f6d329747d5d6685a4b7fc8a0627c732d2b4e5284af1c8faa24d91746ec6a09b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "600dc2f7637b56e5f4603d337654dd10d8d3326e36cdc96b675c828b5089dbda",
+    "robots.txt": "1c44889e0ceb6ba3b1c7c322bab33b3aa9f4334fc4dbab67a50ba11402d44585",
+    "58e1f1a898f82e87b88ab3cdf5b5b603.txt": "e27348e255791439cd41ca0bb1c34a07b1aa714648df0746353379e7fec61127"
+  },
+  "revision": "1dda5c1de0f8edd284f0def278d165c74cbbfd960b318c1739f18c4e8dde86a5"
+}
